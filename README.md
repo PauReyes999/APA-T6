@@ -1,6 +1,6 @@
 # Expresiones Regulares
 
-## Nom i cognoms
+## Pau Reyes Boix
 
 ## Tratamiento de ficheros de notas
 
